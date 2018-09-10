@@ -56,3 +56,7 @@ set user info for git on terminal
 - In Terminal, paste the following: `defaults write com.apple.finder AppleShowAllFiles YES`
 - Press return
 - Hold the ‘Option/alt’ key, then right click on the Finder icon in the dock and click Relaunch.
+
+
+Hello World! 
+My name is Sean
